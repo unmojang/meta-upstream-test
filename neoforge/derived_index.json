@@ -796,7 +796,17 @@
                 "21.1.94",
                 "21.1.95",
                 "21.1.96",
-                "21.1.97"
+                "21.1.97",
+                "21.1.98",
+                "21.1.99",
+                "21.1.100",
+                "21.1.101",
+                "21.1.102",
+                "21.1.103",
+                "21.1.104",
+                "21.1.105",
+                "21.1.106",
+                "21.1.107"
             ]
         },
         "1.21.2": {
@@ -940,7 +950,9 @@
                 "21.4.69-beta",
                 "21.4.70-beta",
                 "21.4.71-beta",
-                "21.4.72-beta"
+                "21.4.72-beta",
+                "21.4.73-beta",
+                "21.4.74-beta"
             ]
         }
     },
@@ -39841,6 +39853,574 @@
             "recommended": false,
             "version": "10"
         },
+        "21.1.100": {
+            "artifact": "neoforge",
+            "build": 100,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.100",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "100"
+        },
+        "21.1.101": {
+            "artifact": "neoforge",
+            "build": 101,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.101",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "101"
+        },
+        "21.1.102": {
+            "artifact": "neoforge",
+            "build": 102,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.102",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "102"
+        },
+        "21.1.103": {
+            "artifact": "neoforge",
+            "build": 103,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.103",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "103"
+        },
+        "21.1.104": {
+            "artifact": "neoforge",
+            "build": 104,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.104",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "104"
+        },
+        "21.1.105": {
+            "artifact": "neoforge",
+            "build": 105,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.105",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "105"
+        },
+        "21.1.106": {
+            "artifact": "neoforge",
+            "build": 106,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.106",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "106"
+        },
+        "21.1.107": {
+            "artifact": "neoforge",
+            "build": 107,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.107",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "107"
+        },
         "21.1.11": {
             "artifact": "neoforge",
             "build": 11,
@@ -46372,6 +46952,148 @@
             "mcversion": "1.21.1",
             "recommended": false,
             "version": "97"
+        },
+        "21.1.98": {
+            "artifact": "neoforge",
+            "build": 98,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.98",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "98"
+        },
+        "21.1.99": {
+            "artifact": "neoforge",
+            "build": 99,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.1.99",
+            "mcversion": "1.21.1",
+            "recommended": false,
+            "version": "99"
         },
         "21.2.0-beta": {
             "artifact": "neoforge",
@@ -55729,6 +56451,150 @@
             "mcversion": "1.21.4",
             "recommended": false,
             "version": "72"
+        },
+        "21.4.73-beta": {
+            "artifact": "neoforge",
+            "branch": "beta",
+            "build": 73,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.4.73-beta",
+            "mcversion": "1.21.4",
+            "recommended": false,
+            "version": "73"
+        },
+        "21.4.74-beta": {
+            "artifact": "neoforge",
+            "branch": "beta",
+            "build": 74,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "moddev-config": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config",
+                    "extension": "json"
+                },
+                "moddev-config.json": {
+                    "artifact": "neoforge",
+                    "classifier": "moddev-config.json",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "21.4.74-beta",
+            "mcversion": "1.21.4",
+            "recommended": false,
+            "version": "74"
         },
         "21.4.8-beta": {
             "artifact": "neoforge",
