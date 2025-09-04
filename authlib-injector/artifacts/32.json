@@ -1,9 +1,0 @@
-{
-    "build_number": 32,
-    "checksums": {
-        "sha256": "8aad9b8e81d31ac63573865a66f6f743496263d157ac79957305b0bd63888a53"
-    },
-    "download_url": "https://authlib-injector.yushi.moe/artifact/32/authlib-injector-1.1.32.jar",
-    "release_time": "2020-08-27T04:21:52Z",
-    "version": "1.1.32"
-}
