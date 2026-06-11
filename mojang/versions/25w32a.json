@@ -153,10 +153,10 @@
     },
     "assetIndex": {
         "id": "27",
-        "sha1": "8a9ec7a7bee7c2a2c614dd112729ece0828acdf1",
+        "sha1": "6fa9debee237c3a28f2db8d5a1fab6433e1c7891",
         "size": 507855,
-        "totalSize": 440421186,
-        "url": "https://piston-meta.mojang.com/v1/packages/8a9ec7a7bee7c2a2c614dd112729ece0828acdf1/27.json"
+        "totalSize": 442491424,
+        "url": "https://piston-meta.mojang.com/v1/packages/6fa9debee237c3a28f2db8d5a1fab6433e1c7891/27.json"
     },
     "assets": "27",
     "complianceLevel": 1,
